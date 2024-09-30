@@ -99,7 +99,7 @@ The diagram shows how different entities of the e-learning platform relate to on
    
 7. Technologies Used
    - Java with Spring Boot and Spring Data JPA.
-   - MySQL/PostgreSQL: The database schema can be implemented in any relational database.
+   - PostgreSQL: The database schema can be implemented in any relational database.
    - Hibernate ORM for managing entity relationships.
 
 8. ### Database Schema in sql (Data Definition Language)
